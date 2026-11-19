@@ -1,0 +1,39 @@
+Business Models
+	•	Industrial symbiosis – create value out of waste. Waste streams from companies become raw materials for others.
+	•	Product life-extension – maintaining and improving  used products through repairs, upgrades, remanufacturing or remarketing, to keep them economically useful for defined use periods (OEM).
+	•	Support lifecycle extension – sells consumable, spare parts, modular design, and add-ons to support life extension of products (by a 3rd party).
+	•	Sharing platform – increasing revenue from under-utilized assets.
+	•	Offering leasing/pay-per-use services.
+	•	Product design – for durability, upgradability, ease of maintenance, repairability, disassembly.
+	•	Sell and buy-back – sells a product and agrees on repurchasing it at the end of use.
+	•	Reverse logistics – collection services of used materials, products and components.
+	•	Facilitating and operating secondary material markets.
+	•	Tracking assets – to enable maintenance, recovery, reuse, and remanufacturing.
+	•	Refurbishment and reselling of used products (by a 3rd party).
+	•	Downcycling – turning materials from used products into a new product with lower quality than the original.
+	•	Recycling – turning materials from used products into a new product with a maintained material quality.
+	•	Internal asset management – optimizing lifetime of equipment, tracking assets, promoting internal zero-waste and LEAN strategies.
+	•	Product demand – produce product only after orders have been placed (personalization of components).
+	•	Dematerialized services – shifting from physical products, services, and processes to virtual.
+	•	Closed loop supply chains – enable multiple uses of resources and materials to minimize virgin material usage.
+	•	Energy recovery – conversion of waste into useful heat, electricity, or fuel.
+
+Company Examples
+	•	Netflix, Spotify
+	•	GM’s landfill-free production sites program, Unilever’s Zero Waste to Landfill program
+	•	Nike shredding old shoes and incorporating the materials into sports flooring solutions; demolished buildings used for road fill
+	•	GameStop – refurbishing and reselling electronic equipment
+	•	EBay, US Materials Marketplace
+	•	Vodafone Red-Hot Scheme
+	•	Avis car leasing
+	•	Caterpillar ongoing upgrading and repairing their products throughout the product life
+	•	Timberland using old tires to product soles for shoes
+	•	Airbnb, GetAround car sharing, FLOOW2
+	•	Miel washing machines, Fairphone
+	•	DHL reverse logistics for products
+	•	TROMA provides sensor-based solutions for tracking, collecting, and sorting of materials in recycling and processing industries. The company offers its clients a technology that enables reverse vending of consumer packaging, and increases utilization of resources through more precise sorting during the recycling stage.
+	•	Plastic bottle recycling & reuse schemes
+	•	SWOON produces furniture after it reaches a set amount of orders
+	•	Braiform is a garment hanger solution which loops their hangers through manufacturers, retail, and re-use centers
+	•	Kroger converts foodwaste into biogas; the city of Copenhagen operates E2W plants using municipal waste for district heating
+	•	Car repair and servicing; Splosh
